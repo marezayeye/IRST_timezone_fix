@@ -1,0 +1,7 @@
+id=IRST_timezone_fix
+name=IRST timezone fix
+version=v1
+versionCode=1
+author=marezayeye @ github
+description=a simple module to update tzdata files on android 10+
+template=3
